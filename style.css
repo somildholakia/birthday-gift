@@ -1,0 +1,13 @@
+body {
+  font-family: "Happy Monkey", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  background-color: skyblue;
+  color: white;
+}
+
+#img {
+    border-radius: 50%;
+    border: 7px solid rgb(250, 172, 185);
+}
