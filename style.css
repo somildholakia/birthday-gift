@@ -5,9 +5,14 @@ body {
   text-align: center;
   background-color: skyblue;
   color: white;
+  
 }
 
 #img {
     border-radius: 50%;
     border: 7px solid rgb(250, 172, 185);
+}
+
+h1, h2 , h4, h3, p {
+    text-shadow: 1px 0px 1px black;
 }
