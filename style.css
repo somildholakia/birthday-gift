@@ -5,14 +5,68 @@ body {
   text-align: center;
   background-color: skyblue;
   color: white;
+
   
 }
 
 #img {
     border-radius: 50%;
     border: 7px solid rgb(250, 172, 185);
+    width: 200px;
 }
 
 h1, h2 , h4, h3, p {
     text-shadow: 1px 0px 1px black;
+    
+}
+#h2 {
+     background-color: pink;
+    display: inline-block;
+    padding-bottom: 6px;
+    padding-top: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    margin-top: 12px;
+}
+
+h4 {
+    background-color: pink;
+    display: inline-block;
+    padding-bottom: 6px;
+    padding-top: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    margin: 0;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+h3 {
+    
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+h5 {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.gift-cover {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 600px;
+    border: 6px solid white;
+    border-radius: 15px;
+    background-image: url(../LocalRepo/images/gift\ cover.avif);
+    background-size:cover;
 }
