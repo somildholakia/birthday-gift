@@ -3,9 +3,8 @@ body {
   font-weight: 400;
   font-style: normal;
   text-align: center;
-  background-color: skyblue;
+  background: linear-gradient(skyblue,pink);
   color: white;
-
   
 }
 
