@@ -92,8 +92,13 @@ p {
 
 #hello5 {
     height: 200px;
+    margin-bottom: 30px;
 }
 
 #hello5:hover {
     background-image: url(../LocalRepo/images/shinchan.jpg);
+}
+
+.yyy {
+    font-style: italic;
 }
